@@ -18,7 +18,7 @@
 感谢以下开发者为项目做出的贡献：
 
 > - [@开发 小夜HEYP](https://github.com/XiaoYeYa)
-> - [@d服主 黯泽Anze](https://github.com/Anzyeeeee)
+> - [@服主 黯泽Anze](https://github.com/Anzyeeeee)
 
 
 ---
