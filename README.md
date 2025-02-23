@@ -7,6 +7,11 @@
 > - [一周目](https://github.com/XiaoYeYa/AnGeServer/releases/tag/%E4%B8%80%E5%91%A8%E7%9B%AE)
 
 
+## 🔧 我们的开源服务器插件
+
+> * [AnGeCoordinate](https://github.com/XiaoYeYa/AnGeServer/tree/master) - 坐标管理插件
+>   * 功能：保存、查看、分享坐标点
+>   * 开发者：小夜HEYP
 ## 🌍 使用说明
 
 > 1. 服务器各周目存档仅可用于留念和单人存档使用，不可在商业性质服务器使用。
