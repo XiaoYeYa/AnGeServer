@@ -24,7 +24,9 @@
 ## 📦 安装说明
 
 1. 确保服务器已安装ProtocolLib插件
-2. 下载最新的发布版本
+2. 下载插件jar文件：
+   - [点击下载最新版本](target/angecoordinate-1.0-SNAPSHOT.jar)
+   - 或从源码编译：`mvn clean package`
 3. 将插件jar文件放入服务器的plugins文件夹
 4. 重启服务器或使用插件重载命令
 
