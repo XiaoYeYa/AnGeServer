@@ -1,0 +1,13 @@
+# 配置传送等待时间（秒）。设置为 0 将禁用等待时间。
+teleport-wait-time: 3
+# 是否启用传送等待时间（false 禁用，直接传送）。
+enable-teleport-wait: true
+
+# 5 分钟内允许的最大传送次数。
+max-teleports-per-5min: 2
+
+# 是否允许管理员绕过传送次数限制（默认启用）。权限节点：angecoordinate.admin
+admin-bypass-limit: true
+
+# 是否启用蹲下 + F 键打开菜单
+enable-sneak-f-key: false

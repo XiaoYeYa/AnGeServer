@@ -1,0 +1,24 @@
+name: angecoordinate
+version: '${project.version}'
+main: ink.yzfs.angecoordinate.Angecoordinate
+api-version: '1.21'
+depend: [ProtocolLib]
+description: 一个允许玩家记录和传送到自定义坐标的插件
+author: _XiaoYe_
+commands:
+  an:
+    description: 打开坐标记录菜单
+    usage: /an
+    permission: angecoordinate.use
+  a:
+    description: 管理命令，重载插件配置
+    usage: /a reload
+    permission: angecoordinate.admin
+
+permissions:
+  angecoordinate.use:
+    description: 允许玩家使用坐标记录功能
+    default: true
+  angecoordinate.admin:
+    description: 允许管理员重载插件配置并绕过传送限制
+    default: op
